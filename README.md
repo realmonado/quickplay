@@ -13,7 +13,7 @@ small script to play to download a youtube video, play with mpv and then delete
 - execute the script
 `./quickplay.sh`
 ## todo
-- [] add an options menu
-- [] add the option to keep the video
-- [] add the option to specify file type
-- [] add the option to request only audio
+- [ ] add an options menu
+- [ ] add the option to keep the video
+- [ ] add the option to specify file type
+- [ ] add the option to request only audio
