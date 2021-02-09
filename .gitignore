@@ -2,4 +2,7 @@
 *.mp3
 *.webm
 *.mkv
+*.opus
+*.ogg
+*.ogm
 commit.sh
